@@ -1,2 +1,58 @@
-# mianfeijiedian
+# 【48小时更新】最新永久免费ssr节点和免费V2ray，适用于电脑的免费梯子软件下载
 Blinkload,SS,SSR,SSR加速器,SSR机场,SSR机场推荐,SSR节点分享网站,SS加速器,SS机场,ssr梯子,免费ssr梯子,免费ss软件工具,V2Ray,V2Ray客户端,V2Ray客户端下载,V2Ray机场,V2Ray机场推荐,V2Ray账号订阅地址,V2加速器,免费SSR节点,免费SS节点,免费Trojan节点,免费V2Ray节点,加速器 好用的机场,机场推荐,梯子推荐,科学上网,网络加速器
+
+### 我相信很多人和我一样，科学上网的时候比较喜欢借助Shadowrocket或者Clash等第三方工具，然后配合网络上找到的免费ssr节点或者免费V2ray节点去使用，但很多时候，这类节点不是因为时间太久导致过期，就是使用人数太多网速上不去，体验一直不佳，这其中有多难受我深有体会。	
+
+所以给大家分享几条免费的V2ray节点和免费ssr节点，同时附带一个免费的电脑梯子软件，所有节点都在48小时内亲测可以使用，并且我会定时长期更新这篇帖子，替换不可用的节点，不能用的时候大伙来本帖拿最新的节点信息就行。
+
+首先给大家推荐个自用的永久免费电脑梯子软件，个人用了好多年了，网速够快网络也足够稳定，在它后台最底端，有六条免费的V2ray节点和免费的ssr节点可以使用，而且有专人维护，不会出现断流断线等情况。
+
+如果没有下载过第三方科学上网插件的，也可以在他们后台的【客户端下载】选项中，下载相应系统的客户端，绿色无毒，而且没有烦人的弹窗广告，客户端也是永久免费的，下载后登录账号就能够使用。
+
+### 永久免费电脑梯子工具下载地址：[https://xbsj3462.fun/i/xy018](https://xbsj3462.fun/i/xy018)
+
+注册登录网站之后，直接把页面拉到最底端，就能看到那几条免费的节点信息了。
+
+![Picture1.png](https://s2.loli.net/2022/09/03/PySl9WcpqJgZ5iV.png)
+
+点击查看，就能查到免费ssr和V2ray节点，还附带订阅地址，很方便。
+
+并且上网速度非常快，看Youtube能默认1080P清晰度，也可以解锁Netflix的4K超高清视频，观看体验很流畅不卡顿。
+
+后台还有游戏专线，能够作为免费的游戏加速器使用，延迟很低，比很多收费的游戏加速器都要好。
+
+### 下面分享几条随取随用的免费ssr节点和免费V2ray节点。
+
+这批节点来自不同地区，有俄罗斯，有香港，也有美国日本，本来我是要标出来的，但在弄文本文档的时候不小心删除了地区信息，所以现在我也搞不懂哪条是哪个地区的，但都不影响使用，后续更新免费ssr和V2ray节点信息的时候，我会尽可能把节点地区给标上。
+
+很多老伙计可能还是喜欢用ssr节点，但我个人推荐大家去使用V2ray节点，因为从实践来看，V2ra'y节点的抗干扰性和抗封锁性明显要高于ssr节点，不管这条节点是不是免费的都是如此。
+
+
+昨日更新：替换了一条失效的免费V2ray和两条免费ssr节点。。。。
+
+ssr://NDYuMjkuMTY3LjEwOTo5NjA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYmpNLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UVEmZ3JvdXA9VEc1amJpNXZjbWM
+
+ssr://NDYuMTcuNDcuMTM6OTYwNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JqTS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFnJmdyb3VwPVRHNWpiaTV2Y21j
+
+ssr://NDYuMjkuMTYwLjEyMDo5NjA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYmpNLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UXcmZ3JvdXA9VEc1amJpNXZjbWM
+vmess://eyJhZGQiOiJnaWEtanAtMDEudm5vZGUuaW5mbyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5Mzk5REVCNC0zMjEyLTQ5OTgtODlGRS05QUFERTJENkUyQzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLmiJHku6zlt7LlgZzmraLmj5DkvpvlhY3otLnlr4bpkqXvvIzmhJ/osKLplb/kuYXnmoTmlK/mjIEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJhbGkta3IwMS52bm9kZS5pbmZvIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjkzOTlERUI0LTMyMTItNDk5OC04OUZFLTlBQURFMkQ2RTJDNCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IuS4i+i9veWFjei0uXZwbue9keWdgO+8mnVybC5jci90L3JlZHNwZWVkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJsaW4tc2ctMDUuc3RyaXBlMDEuY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjkzOTlERUI0LTMyMTItNDk5OC04OUZFLTlBQURFMkQ2RTJDNCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImxpbiBzZyAxMjMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJsaW4tZGUtMTUudm5vZGUuaW5mbyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5Mzk5REVCNC0zMjEyLTQ5OTgtODlGRS05QUFERTJENkUyQzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJsaW4gZGUgMTM2IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+以上的免费ssr节点和免费V2ray都是我个人搜集自网络资源，但每一条都是亲测可用。速度不快不稳定的我也不会发上来，后续这篇帖子我会经常维护，节点的更新也会继续，不能用或者网络速度下滑剧烈的节点会从本章内容中抛除，并且替换上可以用的稳定流畅节免费节点信息，请大家放心食用。
+
+常见问题及注意事项：
+
+1、如果不能使用，可以尝试修改本地DNS（本地连接的DNS手动配置为：8.8.8.8、114.114.114.114或其它公共DNS）；
+
+2、如果还不能用，连接器代理用“全局模式”试试，同时刷新本地网络DNS缓存；(DNS刷新方法)注意电脑或手机时间是否正确；
+
+3、免费节点因为公开，用的人太多，稳定性不要奢望太多，需求大且有条件的最好自己租境外服务器搭建节点（境外服务器建议租用走BGP或是CN2线路）；
+
+4、因为是免费公开节点，连接人数过多，可能会导致实际速度慢，尝试多切换几次节点或者使用中间靠后的节点；
+
+5、节点订阅需要评论后刷新页面才可见，评论后记得刷新页面。
